@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net4.8</TargetFramework>
+		<AssemblyName>Architect.AmbientContexts.Example.Net48</AssemblyName>
+		<RootNamespace>Architect.AmbientContexts.Example.Net48</RootNamespace>
+		<IsPackable>False</IsPackable>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\AmbientContexts\AmbientContexts.csproj" />
+	</ItemGroup>
+
+</Project>
